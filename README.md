@@ -26,7 +26,14 @@ This repository contains materials from the **Helsinki MLOps 2026** event, focus
 
 Designed for **ML engineers, researchers, and practitioners** interested in **efficient LLM workflows and performance optimization**.
 
-## Citation / Source
+
+## Citation
+
+If you use this presentation or repository, please cite:
+
+Parida, S. (2026). *LLM Compression: How Far Can We Go in Balancing Size and Performance?*  
+Presentation at the Helsinki MLOps Meetup 2026.  
+Slides and materials: https://github.com/shantipriyap/helsinki-mlops-llm-compression-2026
 
 
 
